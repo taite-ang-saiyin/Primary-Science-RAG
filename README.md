@@ -354,5 +354,3 @@ Not required, but strongly recommended:
 
 ## 📄 License
 MIT
-* rewrite this into a deploy-ready version with env-based config,
-* fix namespace + ID issues directly in code.
